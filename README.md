@@ -1,1 +1,2 @@
-# VeriTabani_SQL_Kodlaim
+# VeriTabani_SQL_Kodlarim
+SQL Dersinde kullanmış olduğum şartlı ve ilişkisel kodlarım.
