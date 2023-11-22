@@ -1,0 +1,1 @@
+# VeriTabani_SQL_Kodlaim
